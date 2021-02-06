@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">YTP</string>
+    <string name="internetConnection">No Internet Connection</string>
+    <string name="try_again">Try Again</string>
+    <string name="offline">Offline Mode</string>
+    <string name="todo">TODO</string>
+    <string name="playlist">playlist</string>
+    <string name="playlist_info"><![CDATA[Emotional Well-being & Healing Practices for Children]]></string>
+    <string name="playlist_quantity">32 video series</string>
+    <string name="details_info">SIGNS OF EMOTIONAL DISTRESS OR TRAUMA</string>
+    <string name="details_duration">3:28</string>
+    <string name="video_description">Refugee children often have suffered many losses and because of that, they are grieving these losses they\'re grieving the loss of their home, the loss of the life they knew, the places where they were used to be and that they loved to go. The loss of their friends, and certainly the loss of their family members and loved ones. So naturally they\'re going to have sadness.Refugee children often have suffered many losses and because of that, they are grieving these losses they\'re grieving the loss of their home, the loss of the life they knew, the places where they were used to be and that they loved to go. The loss of their friends, and certainly the loss of their family members and loved ones. So naturally they\'re going to have sadness.Refugee children often have suffered many losses and because of that, they are grieving these losses they\'re grieving the loss of their home, the loss of the life they knew, the places where they were used to be and that they loved to go. The loss of their friends, and certainly the loss of their family members and loved ones. So naturally they\'re going to have sadness.</string>
+    <string name="video_title"><![CDATA[HOW DISPLACEMENT INSTABILITY & UNCERTAINTY AFFECT CHILDREN]]></string>
+
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+
+</resources>
